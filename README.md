@@ -2,7 +2,6 @@
 
 #### Video Demo: https://youtu.be/748FYe2QwDQ
 
-#### GitHub: https://github.com/MuhammadYousaf-Dev/vendorsphere
 
 ## Description
 
